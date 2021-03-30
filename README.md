@@ -4,7 +4,7 @@ Table of new topics as described below.
 
 | #  | Title |
 | ------------- | ------------- |
-| 1  | [Growth mindset](https://github.com/Ahmadkharraz/Reading-notes/blob/main/GrowthMindset)  |
+| 1  | [Growth mindset](https://ahmadkharraz.github.io/Reading-notes/)  |
 | 2  | [Markdown](https://github.com/Ahmadkharraz/Reading-notes/blob/main/markdown)  |
 
 
