@@ -10,8 +10,8 @@ So hopefully will learn coding with this great team and teachers.
 
 | #  | Title |
 | ------------- | ------------- |
-| 1  | [Growth mindset](https://ahmadkharraz.github.io/Reading-notes/)  |
-| 2  | [Markdown](https://github.com/Ahmadkharraz/Reading-notes/blob/main/markdown)  |
+| 1  | [Growth mindset]()  |
+| 2  | [Markdown]()  |
 
 
 
