@@ -10,8 +10,8 @@ So hopefully will learn coding with this great team and teachers.
 
 | #  | Title |
 | ------------- | ------------- |
-| 1  | [Growth mindset]()  |
-| 2  | [Markdown]()  |
+| 1  | Growth mindset  |
+| 2  | Markdown |
 
 
 
