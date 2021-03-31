@@ -11,8 +11,8 @@ So hopefully will learn coding with this great team and teachers.
 
 | #  | Title |
 | ------------- | ------------- |
-| 1  | [Growth mindset](growthmindset.html)  |
-| 2  | [Markdown](markdown.html) |
+| 1  | [Growth mindset](growthmindset.md)  |
+| 2  | [Markdown](markdown.md) |
 
 
 <kbd>
