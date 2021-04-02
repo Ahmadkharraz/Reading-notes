@@ -14,6 +14,8 @@ So hopefully will learn coding with this great team and teachers.
 | 1  | [Growth mindset](growthmindset.md)  |
 | 2  | [Markdown](markdown.md) |
 | 3  | [HTML 5](HTML5.md) |
+| 4  | [Javascript](Javascript.md) |
+
 
 
 <kbd>
